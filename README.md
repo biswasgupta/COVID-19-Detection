@@ -15,7 +15,7 @@ models achieved a detection accuracy of COVID-19 around 85%
 ## Dataset Description
 The dataset contains two main folders, one for the X-ray images, which includes two separate sub-folders of 5500 Non-COVID images and 4044 COVID images.
 ## Source of Dataset
-[X Ray Images](https://data.mendeley.com/datasets/8h65ywd2jr/3)\
+[X Ray Images](https://data.mendeley.com/datasets/8h65ywd2jr/3)
 
 ## Built using:
 - [Scikit Learn: ](https://scikit-learn.org/stable/) ML Library used
